@@ -1,5 +1,5 @@
 # wtfsed
-Wtf should Erica do?  Help her make a decision.
+Wtf should Erica do?  ¯\_(ツ)_/¯   Help her make a decision.
 
 ## Table of Contents 
 - [Description](#description)
@@ -27,6 +27,7 @@ THEN I am presented with another option
 ## Pages:
 
 For the deployed page, please click [HERE](https://ericabreig.github.io/wtfsed/)
+<br>
 The code can be located at the [Github Repository](https://github.com/EricaBreig/wtfsed)
 
 
