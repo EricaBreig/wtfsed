@@ -32,4 +32,4 @@ The code can be located at the [Github Repository](https://github.com/EricaBreig
 
 
 ## License:
-[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-yellow.svg)](https://opensource.org/licenses/apache-2-0/)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/apache-2-0/)
