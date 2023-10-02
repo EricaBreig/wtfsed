@@ -33,3 +33,4 @@ The code can be located at the [Github Repository](https://github.com/EricaBreig
 
 ## License:
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/apache-2-0/)
+Copyright (c) 2023 [Erica Breig](https://github.com/EricaBreig)
